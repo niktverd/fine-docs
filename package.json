@@ -1,0 +1,6 @@
+{
+    "name": "maintainers-control",
+    "bin": "./index.js",
+    "main": "./index.js",
+    "version": "0.0.2"
+}
